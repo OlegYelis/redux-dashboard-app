@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/redux-dashboard-app/static/css/main.f3ad1b41.css",
+    "main.js": "/redux-dashboard-app/static/js/main.b237b2d5.js",
+    "static/media/bg-header-desktop.svg": "/redux-dashboard-app/static/media/bg-header-desktop.8694f4668c94cdc9d16e.svg",
+    "index.html": "/redux-dashboard-app/index.html",
+    "static/media/bg-header-mobile.svg": "/redux-dashboard-app/static/media/bg-header-mobile.9cb13612af1317a665a2.svg",
+    "static/media/icon-remove.svg": "/redux-dashboard-app/static/media/icon-remove.70c075ce001e5ccae7c68a570c4b7bc0.svg",
+    "main.f3ad1b41.css.map": "/redux-dashboard-app/static/css/main.f3ad1b41.css.map",
+    "main.b237b2d5.js.map": "/redux-dashboard-app/static/js/main.b237b2d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3ad1b41.css",
+    "static/js/main.b237b2d5.js"
+  ]
+}
